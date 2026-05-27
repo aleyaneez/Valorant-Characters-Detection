@@ -2,7 +2,7 @@
 
 **Proyecto de detección de personajes en videojuegos mediante visión por computadora**
 
-**Autores:** Rocío Rivas & Alejandro Yáñez
+**Autores:** Rocío Rivas (@Roussd) & Alejandro Yáñez (@aleyaneez)
 
 ---
 
@@ -78,4 +78,4 @@ Se utilizó el script [`test.py`](./test.py) para ejecutar el modelo sobre video
 
 ## Créditos
 
-Proyecto desarrollado por **Rocío Rivas** y **Alejandro Yáñez** con fines prácticos, abarcando el ciclo completo de un proyecto de visión por computadora: creación de dataset, etiquetado, entrenamiento e inferencia.
+Proyecto desarrollado por **Rocío Rivas** (@Roussd) y **Alejandro Yáñez** (@aleyaneez) con fines prácticos, abarcando el ciclo completo de un proyecto de visión por computadora: creación de dataset, etiquetado, entrenamiento e inferencia.
