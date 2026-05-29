@@ -41,7 +41,7 @@ Aplicar técnicas de visión por computadora para detectar y clasificar personaj
 | Métrica | Valor |
 |---------|-------|
 | mAP50 general | **0.94** |
-| Clase con mejor rendimiento | 1.00 (varias clases) |
+| Clase con mejor rendimiento | Iso (0.96) |
 | Clase con menor rendimiento | Reyna (0.91) |
 
 ---
