@@ -2,7 +2,7 @@
 
 **Proyecto de detección de personajes en videojuegos mediante visión por computadora**
 
-**Autores:** Rocío Rivas (@Roussd) & Alejandro Yáñez (@aleyaneez)
+**Autores:** [Rocío Rivas](https://github.com/Roussd) & [Alejandro Yáñez](https://github.com/aleyaneez)
 
 ---
 
